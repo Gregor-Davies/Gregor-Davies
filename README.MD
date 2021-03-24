@@ -10,4 +10,4 @@ If you like what I do, it would greatly help me if you can star my repos or dona
 
 🖐 KEY INFO 🖐
 ☁ Gregor.gg (Coming soon)
-💵 https://www.paypal.me/fastsrvweb
+💵 paypal.me/fastsrvweb

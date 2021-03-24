@@ -1,6 +1,6 @@
 Hey! 👋
 
-My name is Gregor and welcome to my README.MD, So what do I do?
+(☞ﾟヮﾟ)☞ My Name is Gregor. ☜(ﾟヮﾟ☜)
 
 I mainly work & upload school projects here but I also work on some personal projects here such as the GEG Bot!
 

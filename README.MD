@@ -2,6 +2,4 @@ Hey! 👋
 
 (☞ﾟヮﾟ)☞ My Name is Gregor. ☜(ﾟヮﾟ☜)
 
-I mainly upload personal projects here and sometimes school projects.
-
-☁ Gregor.gg (Coming soon)
+[![Gregor Davies's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gregor-Davies)](https://github.com/anuraghazra/github-readme-stats)
